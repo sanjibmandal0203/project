@@ -1,0 +1,30 @@
+ECG new feature classification test
+-------------------------------------
+
+1.LogisticRegression
+Training Accuracy: 60.13%
+Testing Accuracy: 58.48%
+
+2.KNeighborsClassifier
+Training Accuracy: 86.08%
+Testing Accuracy: 77.22%
+
+3.SVM
+Training Accuracy: 53.61%
+Testing Accuracy: 50.63%
+
+4.Naïve Bayes
+Training Accuracy: 62.28%
+Testing Accuracy: 59.75%
+
+5.Decision Tree
+Training Accuracy: 100.00%
+Testing Accuracy: 62.28%
+
+6.Random Forest
+Training Accuracy: 100.00%
+Testing Accuracy: 70.89%
+
+7.xgboost
+Training Accuracy: 100.00%
+Testing Accuracy: 72.66%

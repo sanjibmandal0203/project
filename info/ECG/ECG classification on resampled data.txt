@@ -1,0 +1,29 @@
+ECG classification on resampled data
+----------------------------------------
+1.LogisticRegression
+Training Accuracy: 92.72%
+Testing Accuracy: 52.66%
+
+2.KNeighborsClassifier
+Training Accuracy: 48.73%
+Testing Accuracy: 52.15%
+
+3.SVM
+Training Accuracy: 97.34%
+Testing Accuracy: 52.66%
+
+4.Naïve Bayes
+Training Accuracy: 70.95%
+Testing Accuracy: 51.65%
+
+5.Decision Tree
+Training Accuracy: 100.00%
+Testing Accuracy: 52.91%
+
+6.Random Forest
+Training Accuracy: 100.00%
+Testing Accuracy: 59.24%
+
+7.xgboost
+Training Accuracy: 100.00%
+Testing Accuracy: 61.01%
