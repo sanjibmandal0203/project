@@ -1,0 +1,29 @@
+classification test on new ECG PCG (128+128=256)
+--------------------------------------------------
+1.LogisticRegression
+Training Accuracy: 61.84%
+Testing Accuracy: 58.23%
+
+2.KNeighborsClassifier
+Training Accuracy: 75.38%
+Testing Accuracy: 56.20%
+
+3.SVM
+Training Accuracy: 62.53%
+Testing Accuracy: 57.47%
+
+4.Naïve Bayes
+Training Accuracy: 62.34%
+Testing Accuracy: 57.47%
+
+5.Decision Tree
+Training Accuracy: 100.00%
+Testing Accuracy: 60.76%
+
+6.Random Forest
+Training Accuracy: 100.00%
+Testing Accuracy: 72.91%
+
+7.xgboost
+Training Accuracy: 100.00%
+Testing Accuracy: 73.92%
