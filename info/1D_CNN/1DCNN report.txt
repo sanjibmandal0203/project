@@ -1,0 +1,5 @@
+CNN classification test on new ECG PCG (128+128=256)
+----------------------------------------------------
+Test Accuracy: 70.38%
+Test Loss: 1.7671
+ROC AUC: 0.7978
