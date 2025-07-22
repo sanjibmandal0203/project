@@ -1,0 +1,29 @@
+PCG channel 1 32 feature
+--------------------------
+1.LogisticRegression
+Training Accuracy: 59.49%
+Testing Accuracy: 55.19%
+
+2.KNeighborsClassifier
+Training Accuracy: 73.23%
+Testing Accuracy: 52.91%
+
+3.SVM
+Training Accuracy: 59.87%
+Testing Accuracy: 53.16%
+
+4.Naïve Bayes
+Training Accuracy: 58.54%
+Testing Accuracy: 54.43%
+
+5.Decision Tree
+Training Accuracy: 100.00%
+Testing Accuracy: 47.09%
+
+6.Random Forest
+Training Accuracy: 100.00%
+Testing Accuracy: 56.96%
+
+7.xgboost
+Training Accuracy: 100.00%
+Testing Accuracy: 57.72%

@@ -1,0 +1,29 @@
+classification test on new PCG(128) all channel
+------------------------------------------------
+1.LogisticRegression
+Training Accuracy: 60.51%
+Testing Accuracy: 55.19%
+
+2.KNeighborsClassifier
+Training Accuracy: 73.23%
+Testing Accuracy: 52.91%
+
+3.SVM
+Training Accuracy: 60.76%
+Testing Accuracy: 55.44%
+
+4. Naïve Bayes
+Training Accuracy: 58.54%
+Testing Accuracy: 54.43%
+
+5.Decision Tree
+Training Accuracy: 100.00%
+Testing Accuracy: 48.10%
+
+6.Random Forest
+Training Accuracy: 100.00%
+Testing Accuracy: 57.22%
+
+7.xgboost
+Training Accuracy: 100.00%
+Testing Accuracy: 57.72%
