@@ -1,0 +1,26 @@
+Multi-Scale Convolutional Neural Network (MSCNN)(Batch size = 32)
+------------------------------------------------------------------
+1. Trial 1
+Test Accuracy: 70.38%
+Test Loss: 2.0569
+ROC AUC: 0.7776
+
+2.Trial 2
+Test Accuracy: 72.91%
+Test Loss: 1.3771
+ROC AUC: 0.8143
+
+3.Trial 3
+Test Accuracy: 67.34%
+Test Loss: 2.1586
+ROC AUC: 0.7678
+
+4.Trial 4
+Test Accuracy: 72.91%
+Test Loss: 1.7932
+ROC AUC: 0.7818
+
+5.Trial 5
+Test Accuracy: 72.91%
+Test Loss: 1.9020
+ROC AUC: 0.8186
