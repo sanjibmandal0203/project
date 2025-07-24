@@ -1,5 +1,33 @@
 # Cardiovascular disease detection using Multi-Model data and Important Feature Identification using XAI 
 
-Cardiovascular disease (CVD) has been a major cause of deaths all over the world and thus it requires urgent and precise diagnostic means. Even though the old methods based on ECG and PCG signals can be valuable, they are usually not sensitive and can miss in early stages and even asymptomatic cases. This issue was solved by the emergence of deep learning, especially convolutional neural networks (CNN), providing strong tools in automatic feature learning and classification of complicated cardiac data. But, because they are functions that are not known, their applicability in clinical practice is hindered by the lack of clinical trust and, therefore, adoption by physicians who require definite explanations as to the rationale behind predictions. Explainable AI such as SHAP fills this gap by providing insight into which features have the biggest impact on model decisions to increase interpretability.
+Cardiovascular disease requires urgent diagnostic solutions, with deep learning models like CNNs offering powerful automatic feature learning from multi-modal cardiac data including ECG and PCG signals, though their black-box nature limits clinical adoption. Explainable AI techniques such as SHAP address this challenge by providing interpretable insights into model decision-making, enabling clinicians to understand which features most significantly influence predictions and thereby increasing trust in AI-assisted diagnostics.
 
 **Keywords: ML, CNN, MS-CNN**
+
+# Table of Contents
+- [1. Data set](#Data_set)
+- [2. Methodology](#Methodology)
+    - [Experiment 1](#Experiment_1)
+    - [Experiment 2](#Experiment_2)
+    - [Experiment 3](#Experiment_3)
+- [3. Results and Discussion](#Results_and_Discussion)
+    - [Results of the Implementation](#Results_of_the_Implementation)
+    - [Comparison with the previous models](#Comparison_with_the_previous_models)
+ 
+## 1. Data set <a name="Data_set"></a>
+
+## 2. Methodology <a name="Methodology"></a>
+exm
+### 2.1 Experiment 1 <a name="Experiment_1"></a>
+exm1
+### 2.2 Experiment 2 <a name="Experiment_2"></a>
+exm2
+### 2.3 Experiment 3 <a name="Experiment_3"></a>
+exm3
+
+## 3. Results and Discussion <a name="Results_and_Discussion"></a>
+exm
+### 2.1 Results of the Implementation <a name="Results_of_the_Implementation"></a>
+exm1
+### 2.2 Comparison with the previous models <a name="Comparison_with_the_previous_models"></a>
+exm2
