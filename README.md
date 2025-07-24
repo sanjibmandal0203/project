@@ -14,20 +14,22 @@ Cardiovascular disease requires urgent diagnostic solutions, with deep learning 
     - [Results of the Implementation](#Results_of_the_Implementation)
     - [Comparison with the previous models](#Comparison_with_the_previous_models)
  
-## 1. Data set <a name="Data_set"></a>
+## 1. Data set <a name="Data_set"> </a>
 
-## 2. Methodology <a name="Methodology"></a>
+<img width="961" alt="Raw ECG Sample" src="https://github.com/sanjibmandal0203/project/blob/project1/info/ECG/RAW%20ECG%20sample.png">
+
+## 2. Methodology <a name="Methodology"> </a>
 exm
-### 2.1 Experiment 1 <a name="Experiment_1"></a>
+### 2.1 Experiment 1 <a name="Experiment_1"> </a>
 exm1
-### 2.2 Experiment 2 <a name="Experiment_2"></a>
+### 2.2 Experiment 2 <a name="Experiment_2"> </a>
 exm2
-### 2.3 Experiment 3 <a name="Experiment_3"></a>
+### 2.3 Experiment 3 <a name="Experiment_3"> </a>
 exm3
 
-## 3. Results and Discussion <a name="Results_and_Discussion"></a>
+## 3. Results and Discussion <a name="Results_and_Discussion"> </a>
 exm
-### 2.1 Results of the Implementation <a name="Results_of_the_Implementation"></a>
+### 2.1 Results of the Implementation <a name="Results_of_the_Implementation"> </a>
 exm1
-### 2.2 Comparison with the previous models <a name="Comparison_with_the_previous_models"></a>
+### 2.2 Comparison with the previous models <a name="Comparison_with_the_previous_models"> </a>
 exm2
