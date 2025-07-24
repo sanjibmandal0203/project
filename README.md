@@ -16,7 +16,7 @@ Cardiovascular disease requires urgent diagnostic solutions, with deep learning 
  
 ## 1. Data set <a name="Data_set"> </a>
 
-<img width="961" alt="Raw ECG Sample" src="https://github.com/sanjibmandal0203/project/blob/project1/info/ECG/RAW%20ECG%20sample.png">
+<img width="700" alt="Raw ECG Sample" src="https://github.com/sanjibmandal0203/project/blob/project1/info/ECG/RAW%20ECG%20sample.png">
 
 ## 2. Methodology <a name="Methodology"> </a>
 exm
