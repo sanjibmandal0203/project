@@ -1,0 +1,5 @@
+# Cardiovascular disease detection using Multi-Model data and Important Feature Identification using XAI 
+
+Cardiovascular disease (CVD) has been a major cause of deaths all over the world and thus it requires urgent and precise diagnostic means. Even though the old methods based on ECG and PCG signals can be valuable, they are usually not sensitive and can miss in early stages and even asymptomatic cases. This issue was solved by the emergence of deep learning, especially convolutional neural networks (CNN), providing strong tools in automatic feature learning and classification of complicated cardiac data. But, because they are functions that are not known, their applicability in clinical practice is hindered by the lack of clinical trust and, therefore, adoption by physicians who require definite explanations as to the rationale behind predictions. Explainable AI such as SHAP fills this gap by providing insight into which features have the biggest impact on model decisions to increase interpretability.
+
+**Keywords: ML, CNN, MS-CNN**
