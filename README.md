@@ -41,7 +41,6 @@ Cardiovascular disease requires urgent diagnostic solutions, with deep learning 
 <div align="center">
     <img width="90%" alt="work flow" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Model/flow.jpg">
 </div> 
-exm
 
 ### 2.1 Experiment 1 (On ECG data)<a name="Experiment_1"> </a>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -57,7 +56,7 @@ precidance
 
 <table width="100%">
     <tr>
-        <td width="50%">
+        <td width="40%">
 
 | Algorithm	             | Training Accuracy | Testing Accuracy  |
 |------------------------|-------------------|-------------------|
@@ -69,7 +68,7 @@ precidance
 | Random Forest	         | 100.00%	         | 59.24%            |
 | XGBoost	             | 100.00%	         | 61.01%            |
 </td>
-        <td width="50%">
+        <td width="60%">
             <img width="100%" alt="classification on ECG feature (2048 feature)" src="https://github.com/sanjibmandal0203/project/blob/project1/info/ECG/ECG%20Resample%20classification%20results.png">
             </td>
         </tr>
@@ -85,7 +84,7 @@ precidance
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="40%">
 
 | Algorithm	             | Training Accuracy | Testing Accuracy  |
 |------------------------|-------------------|-------------------|
@@ -97,7 +96,7 @@ precidance
 | Random Forest	         | 100.00%	         | 70.89%            |
 | XGBoost	             | 100.00%	         | 72.66%            |
 </td>
-<td width="50%">
+<td width="60%">
 <img width="100%" alt="classification on ECG feature" src="https://github.com/sanjibmandal0203/project/blob/project1/info/ECG/Ecg%20new%20feature%20classification%20results.png">
 </td>
 </tr>
@@ -136,7 +135,7 @@ The PCG channels, resampled, were given to fully differentiated 1D Convolutional
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="40%">
 
 | Algorithm	            | Training Accuracy     |Testing Accuracy
 |-----------------------|-----------------------|---------------
@@ -148,7 +147,7 @@ Decision Tree	        | 100.00%	            |47.09%
 Random Forest	        | 100.00%	            |56.96%
 XGBoost	                | 100.00%	            |57.72%
 </td>
-<td width="50%">
+<td width="60%">
 <img width="100%" alt="classification on channel_1 PCG feature (32 feature)" src="https://github.com/sanjibmandal0203/project/blob/project1/info/PCG/PCG%20channel_1%20classification.png"></td>
 </tr>
 </table>
@@ -160,7 +159,7 @@ XGBoost	                | 100.00%	            |57.72%
 </div>    
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="40%">
 
 | Algorithm	                | Training Accuracy| Testing Accuracy    
 |---------------------------|------------------|-----------------
@@ -172,12 +171,12 @@ XGBoost	                | 100.00%	            |57.72%
 | Random Forest	            |100.00%	       | 57.22%
 | XGBoost	                |100.00%	       | 57.72%
 </td>
-<td width="50%">
+<td width="60%">
 <img width="100%" align="center" alt="classification on PCG feature (128 feature)" src="https://github.com/sanjibmandal0203/project/blob/project1/info/PCG/PCG%20all%20channel%20128%20classification.png">
 </tr>
 </table>
 
-### 2.3 Experiment 3 <a name="Experiment_3"> </a>
+### 2.3 Experiment 3 (On ECG PCG data) <a name="Experiment_3"> </a>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="Center">
 <img width="50%" align="center" alt="Concatinate ECG PCG" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Model/ECG%20PCG%20features.png">
@@ -187,7 +186,7 @@ XGBoost	                | 100.00%	            |57.72%
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="40%">
 
 |Algorithm	            |Training Accuracy (%)	|Testing Accuracy (%)
 |-----------------------|-----------------------|--------------------
@@ -199,7 +198,7 @@ XGBoost	                | 100.00%	            |57.72%
 |Random Forest	        |100.00	                |72.91
 |XGBoost	            |100.00	                |73.92
 </td>
-<td width="50%">
+<td width="60%">
 <img width="100%" alt="classification on PCG feature (128 feature)" src="https://github.com/sanjibmandal0203/project/blob/project1/info/ECG%20PCG%20ML/classification%20test%20on%20new%20ECG%20PCG%20(128%2B128%3D256).png"></tr>
 </table>
 
@@ -221,28 +220,48 @@ XGBoost	                | 100.00%	            |57.72%
 #### 2.3.3 Implementation 3: Implement Multi Scale Convolution Nural Network (MSCNN) using parallel convolution layers for model training and classification on ECG+PCG feature (256 feature):<a name="Implementation_3"> </a>
 **Multi Scale Convolution Nural Network (MSCNN) Architecture**
 
-<div align="Center">
-
-***Trial 1 & 2***
-
-<img width="50%" align="center" alt="Trial 1" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Model/trial_1.png">
-
-***Trial 3***
-
-<img width="50%" align="center" alt="trial 3" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Model/trial_3.png">
-
-***Trial 4***
-
-<img width="50%" align="center" alt="trial 4" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Model/trial_4.png">
-
-***Trial 5***
-
-<img width="50%" align="center" alt="trial 5" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Model/trial_5.png">
-
-</div>
+<table width="100%">
+    <tr>
+        <th>Trial 1 & 2</th>
+        <th>Trial 3</th>
+    </tr>
+    <tr>
+        <td width="50%"><img width="100%" align="center" alt="Trial 1" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Model/trial_1.png"></td>
+        <td width="50%"><img width="100%" align="center" alt="trial 3" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Model/trial_3.png"></td>
+    </tr>
+    <tr>
+        <th>Trial 4</th>
+        <th>Trial 5</th>
+    </tr>
+    <tr>
+        <td width="50%"><img width="100%" align="center" alt="trial 4" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Model/trial_4.png"></td>
+        <td width="50%"><img width="100%" align="center" alt="trial 4" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Model/trial_5.png"></td>
+    </tr>
+</table>
 
 **Batch size 32: Trial 1/2/3/4/5**
-<img width="50%" alt="" src="">
+<table>
+    <tr>
+        <th>Trial 1</th>
+        <th>Trial 2</th>
+        <th>Trial 3</th>
+    </tr>
+     <tr>
+        <td width="33.3%"><img width="100%" alt="Trial 1" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t1.png"></td>
+        <td width="33.3%"><img width="100%" alt="Trial 2" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t2.png"></td>
+        <td width="33.3%"><img width="100%" alt="Trial 3" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t3.png"></td>
+    </tr>
+    <tr>
+        <th>Trial 4</th>
+        <th colspan="2">Trial 5</th>
+    </tr>
+    <tr>
+        <td width="50%"><img width="100%" alt="Trial 4" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t4.png"></td>
+        <td width="50%" colspan="2"><img width="100%" alt="Trial 5" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t5.png"></td>
+    </tr>
+</table>
+
+<img width="50%" alt="Trial " src="">
 
 **Batch size 64: Trial 1/2/3/4/5**
 
