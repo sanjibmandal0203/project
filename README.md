@@ -240,24 +240,69 @@ XGBoost	                | 100.00%	            |57.72%
 </table>
 
 **Batch size 32: Trial 1/2/3/4/5**
+
+> Accuracy and Loss
 <table>
     <tr>
         <th>Trial 1</th>
         <th>Trial 2</th>
-        <th>Trial 3</th>
-    </tr>
-     <tr>
-        <td width="33.3%"><img width="100%" alt="Trial 1" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t1.png"></td>
-        <td width="33.3%"><img width="100%" alt="Trial 2" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t2.png"></td>
-        <td width="33.3%"><img width="100%" alt="Trial 3" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t3.png"></td>
     </tr>
     <tr>
+        <td width="50%"><img width="100%" alt="Trial 1" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t1.png"></td>
+        <td width="50%"><img width="100%" alt="Trial 2" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t2.png"></td>
+    </tr>
+    <tr>
+        <th>Trial 3</th>
         <th>Trial 4</th>
+    </tr>
+    <tr>
+        <td width="50%"><img width="100%" alt="Trial 3" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t3.png"></td>
+        <td width="50%"><img width="100%" alt="Trial 4" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t4.png"></td>
+    </tr>
+    <tr>
         <th colspan="2">Trial 5</th>
     </tr>
     <tr>
-        <td width="50%"><img width="100%" alt="Trial 4" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t4.png"></td>
-        <td width="50%" colspan="2"><img width="100%" alt="Trial 5" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t5.png"></td>
+        <td colspan="2" align= "Center" width="50%"><img width="50%" alt="Trial 5" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t5.png"></td>
+    </tr>
+</table>
+
+> Confusion Matrix & ROC Curve
+<table>
+    <tr>
+        <th colspan="2">Trial 1</th>
+    </tr>
+    <tr>
+        <td width="50%"><img alt="Trial 1 cm" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t1_cm.png"></td>
+        <td width="50%"><img alt="Trial 1 roc" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t1_roc.png"></td>
+    </tr>
+    <tr>
+        <th colspan="2">Trial 2</th>
+    </tr>
+    <tr>
+        <td width="50%"><img alt="Trial 2 cm" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t2_cm.png"></td>
+        <td width="50%"><img alt="Trial 2 roc" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t2_roc.png"></td>
+    </tr>
+    <tr>
+        <th colspan="2">Trial 3</th>
+    </tr>
+    <tr>
+        <td width="50%"><img alt="Trial 3 cm" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t3_cm.png"></td>
+        <td width="50%"><img alt="Trial 3 roc" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t3_roc.png"></td>
+    </tr>
+    <tr>
+        <th colspan="2">Trial 4</th>
+    </tr>
+    <tr>
+        <td width="50%"><img alt="Trial 4 cm" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t4_cm.png"></td>
+        <td width="50%"><img alt="Trial 4 roc" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t4_roc.png"></td>
+    </tr>
+    <tr>
+        <th colspan="2">Trial 5</th>
+    </tr>
+    <tr>
+        <td width="50%"><img alt="Trial 5 cm" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t5_cm.png"></td>
+        <td width="50%"><img alt="Trial 5 roc" src="https://github.com/sanjibmandal0203/project/blob/project1/info/Batch%2032/t5_roc.png"></td>
     </tr>
 </table>
 
